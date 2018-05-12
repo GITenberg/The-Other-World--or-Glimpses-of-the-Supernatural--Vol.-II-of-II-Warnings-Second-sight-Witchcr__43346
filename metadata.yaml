@@ -1,0 +1,30 @@
+_repo: The-Other-World--or-Glimpses-of-the-Supernatural--Vol.-II-of-II-Warnings-Second-sight-Witchcr__43346
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43346-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: Lee, Frederick George
+    alias: Lee, F. G. (Frederick George)
+    birthdate: 1832
+    deathdate: 1902
+    gutenberg_agent_id: '42148'
+    url: http://www.gutenberg.org/2009/agents/42148
+description: ''
+gutenberg_issued: '2013-07-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43346'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Supernatural'
+- !lcc 'BF'
+- !lcsh 'Spiritualism'
+title: "The Other World; or, Glimpses of the Supernatural (Vol. 2 of 2)\r\nBeing Facts,\
+  \ Records, and Traditions Relating to Dreams, Omens, Miraculous Occurrences, Apparitions,\
+  \ Wraiths, Warnings, Second-sight, Witchcraft, Necromancy, etc."
+url: http://www.gutenberg.org/ebooks/43346
